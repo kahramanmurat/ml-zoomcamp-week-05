@@ -29,9 +29,5 @@
 # OS generated files #
 ######################
 .DS_Store
-ipynb_checkpoints
-.ipynb_checkpoints
 */.ipynb_checkpoints/*
-*/.ipynb_checkpoints/*.ipynb
-.*  # ignore all hidden files and folders
-!/.gitignore  # explicitly do not ignore .gitignore
+
